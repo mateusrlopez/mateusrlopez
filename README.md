@@ -21,7 +21,9 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
 - NodeJS/Express
 - NestJS
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=dark&show_icons=true)
+### My Stats :page_with_curl:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=dark&show_icons=true&count_private=true)
 
 ### My contacts :mailbox_with_mail:
 
