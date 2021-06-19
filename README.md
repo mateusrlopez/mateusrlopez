@@ -6,7 +6,16 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
 - I always try to develop applications that help people in some way :heart:
 - Besides programming I also like playing/listening to music :musical_note: and playing video games :video_game:
 
-### Technologies that I mainly work with :hammer:
+***
+
+### Favorite technologies and stats :hammer:
+
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrlopez&langs_count=15&layout=compact&theme=vision-friendly-dark">
+</div>
+
+
 
 <div>
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -25,11 +34,7 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
 
 
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrlopez&langs_count=15&layout=compact&theme=vision-friendly-dark">
-</div>
-
+***
 
 ### My contacts :mailbox_with_mail:
 
@@ -44,3 +49,4 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
     	<img src="https://img.shields.io/badge/-Whatsapp-25d366?logo=Whatsapp&logoColor=white&link=https://wa.me/5521984093527&style=for-the-badge">
     </a>
 </div>
+
