@@ -9,26 +9,27 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
 ### Technologies that I mainly work with :hammer:
 
 <div>
-    <img align="center" alt="JS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="TS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="HTML" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="GoLang" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-    <img align="center" alt="PHP" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-	<img align="center" alt="Docker" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Postgres" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="Redis" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
-    <img align="center" alt="Nest" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-    <img align="center" alt="Laravel" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="VueJS" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="GoLang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+	<img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+    <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+    <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 
 
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrlopez&langs_count=15&layout=compact&theme=vision-friendly-dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrlopez&langs_count=15&layout=compact&theme=vision-friendly-dark">
 </div>
+
 
 ### My contacts :mailbox_with_mail:
 
