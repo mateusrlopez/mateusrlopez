@@ -16,7 +16,6 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
 </div>
 
 
-
 <div style="display: inline_block"><br>
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,8 +28,9 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
     <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
     <img align="center" alt="Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
     <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
 
 
 
@@ -49,4 +49,3 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Com
     	<img src="https://img.shields.io/badge/-Whatsapp-25d366?logo=Whatsapp&logoColor=white&link=https://wa.me/5521984093527&style=for-the-badge">
     </a>
 </div>
-
