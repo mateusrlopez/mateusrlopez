@@ -1,6 +1,6 @@
 ### About me :blush:
 
-Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 20 years old Computer Science student :books: at Centro Federal de Educação Celso Suckow da Fonseca (CEFET/RJ) at Rio de Janeiro - Brazil :brazil:.
+Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 23 years old Computer Science student :books: at Centro Federal de Educação Celso Suckow da Fonseca (CEFET/RJ) at Rio de Janeiro - Brazil :brazil:.
 
 - I'm a web development enthusiastic, especially for back-end techonlogies :computer:
 - I always try to develop applications that help people in some way :heart:
