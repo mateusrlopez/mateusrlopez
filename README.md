@@ -1,6 +1,6 @@
 ### About me :blush:
 
-Hello there, my name is Mateus Rodrigues Lopez. I'm a Brazillian :brazil:/Spanish :spain: software developer with 5+ years of experience. Here you will find some of the personal projects that I've made
+Hello there, my name is Mateus Rodrigues Lopez. I'm a Brazillian :brazil:/Spanish :es: software developer with 5+ years of experience. Here you will find some of the personal projects that I've made
 
 - I'm a web development enthusiastic, both for front-end/back-end techonlogies :computer:
 - I always try to develop applications that help people in some way :heart:
