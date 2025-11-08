@@ -1,8 +1,8 @@
 ### About me :blush:
 
-Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 24 years old Computer Science student :books: at Centro Federal de Educação Celso Suckow da Fonseca (CEFET/RJ) at Rio de Janeiro - Brazil :brazil:.
+Hello there, my name is Mateus Rodrigues Lopez. I'm a Brazillian :brazil:/Spanish :spain: software developer with 5+ years of experience. Here you will find some of the personal projects that I've made
 
-- I'm a web development enthusiastic, especially for back-end techonlogies :computer:
+- I'm a web development enthusiastic, both for front-end/back-end techonlogies :computer:
 - I always try to develop applications that help people in some way :heart:
 - Besides programming I also like playing/listening to music :musical_note: and playing video games :video_game:
 
@@ -23,7 +23,6 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm currently a 24 years old Com
     <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="GoLang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
