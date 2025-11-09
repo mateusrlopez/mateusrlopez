@@ -12,7 +12,7 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm a Brazillian :brazil:/Spanis
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusrlopez&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrlopez&langs_count=15&layout=compact&theme=vision-friendly-dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrlopez&langs_count=10&layout=compact&theme=vision-friendly-dark">
 </div>
 
 
@@ -21,7 +21,8 @@ Hello there, my name is Mateus Rodrigues Lopez. I'm a Brazillian :brazil:/Spanis
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="VueJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="GoLang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
